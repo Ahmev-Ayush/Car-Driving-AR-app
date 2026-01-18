@@ -3836,9 +3836,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CarController__ctor_mED29536AC2B7697D76B
 		//<source_info:B:/Unity/Driving Car/Assets/Resources (added by me)/Scripts/CarController.cs:9>
 		__this->___Speed = (0.5f);
 		//<source_info:B:/Unity/Driving Car/Assets/Resources (added by me)/Scripts/CarController.cs:10>
-		__this->___RotationSpeed = (5.0f);
+		__this->___RotationSpeed = (2.0f);
 		//<source_info:B:/Unity/Driving Car/Assets/Resources (added by me)/Scripts/CarController.cs:18>
-		__this->___MaxSpeed = (0.5f);
+		__this->___MaxSpeed = (1.0f);
 		//<source_info:B:/Unity/Driving Car/Assets/Resources (added by me)/Scripts/CarController.cs:19>
 		__this->___Acceleration = (0.5f);
 		//<source_info:B:/Unity/Driving Car/Assets/Resources (added by me)/Scripts/CarController.cs:20>
